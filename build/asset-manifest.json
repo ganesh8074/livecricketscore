@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Live-Cricket-Score-App-/static/css/main.3a1f3af2.chunk.css",
+    "main.js": "/Live-Cricket-Score-App-/static/js/main.c63f2960.chunk.js",
+    "main.js.map": "/Live-Cricket-Score-App-/static/js/main.c63f2960.chunk.js.map",
+    "runtime-main.js": "/Live-Cricket-Score-App-/static/js/runtime-main.04f2c8c9.js",
+    "runtime-main.js.map": "/Live-Cricket-Score-App-/static/js/runtime-main.04f2c8c9.js.map",
+    "static/js/2.6aafef21.chunk.js": "/Live-Cricket-Score-App-/static/js/2.6aafef21.chunk.js",
+    "static/js/2.6aafef21.chunk.js.map": "/Live-Cricket-Score-App-/static/js/2.6aafef21.chunk.js.map",
+    "static/js/3.3a46d000.chunk.js": "/Live-Cricket-Score-App-/static/js/3.3a46d000.chunk.js",
+    "static/js/3.3a46d000.chunk.js.map": "/Live-Cricket-Score-App-/static/js/3.3a46d000.chunk.js.map",
+    "index.html": "/Live-Cricket-Score-App-/index.html",
+    "static/css/main.3a1f3af2.chunk.css.map": "/Live-Cricket-Score-App-/static/css/main.3a1f3af2.chunk.css.map",
+    "static/js/2.6aafef21.chunk.js.LICENSE.txt": "/Live-Cricket-Score-App-/static/js/2.6aafef21.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Live-Cricket-Score-App-/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04f2c8c9.js",
+    "static/js/2.6aafef21.chunk.js",
+    "static/css/main.3a1f3af2.chunk.css",
+    "static/js/main.c63f2960.chunk.js"
+  ]
+}
